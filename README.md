@@ -1,4 +1,4 @@
-#Nama    : Wesly S. Sidabutar
+Nama    : Wesly S. Sidabutar
 Nim     : 181401127
 penjelasan  :
 pada program ini sebuah objek (kotak) dapat dipindah-pindahkan posisinya
